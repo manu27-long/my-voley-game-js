@@ -1,0 +1,22 @@
+{
+  "name": "my-voley-game",
+  "version": "1.0.0",
+  "description": "software capitular informações de jogo de volesoftware  capitular in",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu27-long/my-voley-game-js.git"
+  },
+  "author": "Manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu27-long/my-voley-game-js/issues"
+  },
+  "homepage": "https://github.com/manu27-long/my-voley-game-js#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
