@@ -7,6 +7,11 @@ module.exports = class Set{
        this.pontos = [];
     }  
       getMaiorPontuador(){
+        this.ponto.forEach(
+          () => {
+            if(jogador == 0 || (ponto.getJogador().getListaPorPontosPorTipos() > jogador.getListaPorPontosPorTipos())){
+          }
+          });
          return this.jogador;
          
       } 

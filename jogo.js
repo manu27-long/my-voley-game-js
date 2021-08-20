@@ -12,6 +12,6 @@ module.exports = class Jogo{
     getData(){
         return this.data;
 }
-   setData(data){
-         this.data = data
+    setData(data){
+        this.data = data;
 }}
