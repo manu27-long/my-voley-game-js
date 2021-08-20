@@ -7,18 +7,19 @@ module.exports = class Set{
        this.pontos = [];
     }  
       getMaiorPontuador(){
-         return this.novoJogador;
+         return this.jogador;
          
       } 
 
-      getListaPorPontosPorTipos(){
-      
-         return this.pontos;
-         
+      getListaPorPontosPorTipos(){         return this.pontos[postos];
+          return this.ponto;
+ 
       }
    
       registrarPonto(ponto){
-        
+         
           this.ponto.push(ponto);
-      }
+      
+          
+  }
 }

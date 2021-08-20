@@ -1,6 +1,6 @@
 module.exports = class Ponto{
     constructor(){
-        this.vantagemCasa = vantagemCasa;
+        this.vantagemDaCasa = vantagemDaCasa;
     }
 
   getJogador(){
