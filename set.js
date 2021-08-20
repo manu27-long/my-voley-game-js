@@ -11,7 +11,7 @@ module.exports = class Set{
          
       } 
 
-      getListaPorPontosPorTipos(){         return this.pontos[postos];
+      getListaPorPontosPorTipos(){         
           return this.ponto;
  
       }
