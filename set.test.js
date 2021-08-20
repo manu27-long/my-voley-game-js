@@ -1,8 +1,9 @@
 
-const Jogo = require('./Jogo');
+const Jogo = require('./jogo');
 
   test('Teste', () => {
-  var novoJogo = new Jogo('');
-  expect(novo.novoJogo.getDate().toBeEqual(''))
+  var novoJogo = new Jogo();
+
+  expect(novoJogo.getData()).toEqual('12-09-2019');
 }
   );
